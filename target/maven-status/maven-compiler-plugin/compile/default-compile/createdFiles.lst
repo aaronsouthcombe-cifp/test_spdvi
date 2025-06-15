@@ -1,5 +1,6 @@
-cat/paucasesnovescifp/test_spdvi/FileUploadComponent$UploadEvent.class
-cat/paucasesnovescifp/test_spdvi/FileUploadComponentBeanInfo.class
-cat/paucasesnovescifp/test_spdvi/FileUploadComponent.class
-cat/paucasesnovescifp/test_spdvi/FileUploadComponent$1.class
-cat/paucasesnovescifp/test_spdvi/Test_spdvi.class
+com/southcombe/blobpoller/BlobPollingComponent$BlobFileInfo.class
+com/southcombe/blobpoller/BlobPollerTest.class
+com/southcombe/blobpoller/BlobPollingComponentBeanInfo.class
+com/southcombe/blobpoller/BlobPollingComponent$BlobChangeEvent.class
+com/southcombe/blobpoller/BlobPollingComponent$BlobChangeListener.class
+com/southcombe/blobpoller/BlobPollingComponent.class
